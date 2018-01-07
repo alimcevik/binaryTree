@@ -1,7 +1,4 @@
 # binaryTree
-def incele
-  "#{sol.incele} #{dugum} #{sag.incele}"
-end 
 
 sıralama üzerinde değişiklik yapılması gereken metot "incele" metodudur.
 
