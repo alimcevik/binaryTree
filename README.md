@@ -1,12 +1,22 @@
 # binaryTree
-
-sıralama üzerinde değişiklik yapılması gereken metot "incele" metodudur.
+> **Not:** Sıralama üzerinde değişiklik yapılması gereken metot **incele** metodudur.
 
 LNR (infix) için:
-  "#{sol.incele} #{dugum} #{sag.incele}"
-  
+ ```ruby
+ "#{sol.incele} #{dugum} #{sag.incele}"
+```
 LRN(postfix) için:
-   "#{sol.incele} #{sag.incele} #{dugum}"
-   
+```ruby
+"#{sol.incele} #{sag.incele} #{dugum}"
+```
+
 NLR(prefix) için: 
+
+```ruby
    "#{dugum} #{sol.incele} #{sag.incele}"
+```
+  
+
+   
+   
+
