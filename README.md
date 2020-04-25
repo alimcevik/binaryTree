@@ -1,5 +1,5 @@
 # binaryTree
-> **(ENG) Note:** The method that requires changes on the ranking is the **incele** method.
+> **(ENG) Note:** The method that requires changes on the ranking is the **incele** method.\
 > **(TR) Not:** Sıralama üzerinde değişiklik yapılması gereken metot **incele** metodudur.
 
 
