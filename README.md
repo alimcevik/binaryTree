@@ -1,17 +1,19 @@
 # binaryTree
-> **Not:** Sıralama üzerinde değişiklik yapılması gereken metot **incele** metodudur.
+> **(ENG) Note:** The method that requires changes on the ranking is the **incele** method.
+> **(TR) Not:** Sıralama üzerinde değişiklik yapılması gereken metot **incele** metodudur.
 
-LNR (infix) için:
+
+for LNR (infix):
  ```ruby
  "#{sol.incele} #{dugum} #{sag.incele}"
 ```
-LRN(postfix) için:
+
+for LRN(postfix):
 ```ruby
 "#{sol.incele} #{sag.incele} #{dugum}"
 ```
 
-NLR(prefix) için: 
-
+for NLR(prefix): 
 ```ruby
    "#{dugum} #{sol.incele} #{sag.incele}"
 ```
